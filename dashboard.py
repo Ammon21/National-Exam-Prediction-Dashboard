@@ -6,18 +6,18 @@ import pickle
 model = pickle.load(open('model.pkl', 'rb'))
 
 st.title('AI National Examination Prediction')
-maths = st.number_input("Maths Result")
-english = st.number_input("English Result")
-civics = st.number_input("Civics Result")
-chemistry = st.number_input("Chemistry Result")
-biology = st.number_input("Biology Result")
-physics = st.number_input("Physics Result")
+Maths = st.number_input("Maths Result")
+English = st.number_input("English Result")
+Civics = st.number_input("Civics Result")
+Chemistry = st.number_input("Chemistry Result")
+Biology = st.number_input("Biology Result")
+Physics = st.number_input("Physics Result")
 GPAx = st.number_input("GPA")
 
-column = ['maths','english', 'civics', 'chemistry', 'biology', 'physics', 'GPA']
+column = ['Maths','English', 'Civics', 'Chemistry', 'Biology', 'Physics', 'GPA']
 
 def predict():
-    row = np.array([maths,english,civics, chemistry, biology, physics,GPAx])
+    row = np.array([Maths,English,Civics,Chemistry,Biology, Physics,GPAx])
     X = pd.DataFrame([row], columns=column)
     prediction = model.predict(X)
     rez = 'Your Potential matric Result is ' + str(prediction)
