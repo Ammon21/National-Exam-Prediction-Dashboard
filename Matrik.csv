@@ -1,0 +1,86 @@
+Name,Gender,Type,Batch,Maths,English,Civics,Chemistry,Biology,Physics,Geography,History,GPA,Matrik
+Bethelhem Meba Weldekidan,F,N,2022,75,93,90,80,84,76,,,83,400
+Megfira Desalegn Adebo,F,N,2022,92,99,95,82,88,83,,,89.8,450
+Kaleab Million,M,N,2022,85,96,92,95,86,86,,,90,516
+Yonas Lake,M,N,2022,97,91,89,92,89,81,,,89.8,420
+Hanna Kassahun Birle,F,N,2022,56,92,89,68,80,76,,,76.8,409
+Alexander Hussein Ahmed,M,N,2022,89,95,88,85,64,84,,,84.2,534
+Rediet Dula,F,N,2022,89,95,88,85,71,84,,,85.3,439
+Debretsion Dememew,M,N,2022,96,100,95,90,92,87,,,93.3,565
+Mastewal Mesfin Asfaw,M,N,2022,78,100,86,72,77,76,,,81.5,463
+Kidus Anley Alemu,M,N,2022,85,97,73,63,70,76,,,77.3,359
+Brook Anley Alemu,M,N,2022,50,91,72,66,50,75,,,67.3,384
+Barok Abreham Fikru,M,N,2022,87,99,81,88,74,87,,,86,417
+Arsema Mesfin Belay,F,N,2022,75,90,83,77,68,79,,,78.7,389
+Absera Temesgen Yihunie,F,N,2022,100,100,94,96,96,95,,,96.8,548
+Abraham Habtamu Tsegaw,M,N,2022,75,84,88,81,80,82,,,81.7,480
+Tamrat Girma Gebremariam,M,N,2022,80,91,92,91,87,86,,,87.8,512
+Bereket Milion Arega,M,N,2022,67,86,90,74,76,82,,,79.2,411
+Mikiyas Sintayehu Shiferaw,M,N,2022,95,98,91,96,89,90,,,93.2,470
+Mahi Andulkadir Ibrahim,F,N,2022,88,92,91,72,83,73,,,83.2,444
+Bezawit Mundino Kabeto,F,N,2022,88,95,91,80,86,75,,,85.8,417
+Ruth Wondwossen Delelegn,F,N,2022,81,100,90,83,87,80,,,86.8,437
+Tsion Wubale Getachew,F,N,2022,84,91,84,83,79,70,,,81.8,404
+Yonas Demrew Tamrat ,M,N,2022,81,96,85,90,84,79,,,85.8,485
+Riem Ibrahim Siraje,F,N,2022,70,95,94,86,90,77,,,85.3,414
+Liya Mekonen Shibru,M,N,2022,89,100,95,95,87,95,,,93.5,592
+Robel Solomon Gizaw,M,N,2022,80,85,87,91,81,86,,,85,518
+Basleal Getachew Gebray,M,N,2022,66,87,82,76,60,70,,,73.5,376
+Bereket Dereje Wondemu,M,N,2022,83,87,85,89,86,78,,,84.7,451
+Daniel Alene Fenta,M,N,2022,78,89,90,90,80,84,,,85.2,479
+Elenie Girma Wakjira,F,N,2022,94,97,89,95,94,91,,,93.3,595
+Fiker Anteneh Andualem,M,N,2022,73,86,93,71,79,73,,,79.2,427
+Natnael  Ephrem Tamire,M,N,2022,87,87,86,81,72,74,,,81.2,398
+Haymanot Meles Hailemichael,F,N,2022,74,100,85,74,80,72,,,80.8,405
+Tsion Mihret Chekol,F,N,2022,100,90,95,98,88,90,,,93.5,562
+Nardos Bisrat Pawlos,F,N,2022,92,97,89,88,81,88,,,89.2,463
+Cannan Melka Tolla,M,A,2022,50,81,55,,,,55,52,58.6,
+Tihut Negusu Aklilu,F,A,2022,71,97,72,,,,66,79,77,
+Hermela Muluneh Lema,F,A,2022,67,100,91,,,,78,88,84.8,
+Lamrot Mamo Getachew,F,A,2022,88,94,93,,,,92,98,93,
+Lidiya Mezgebu Korssa,F,A,2022,87,92,94,,,,84,97,90.8,
+Meklit  Mesfin Adugna,F,A,2022,89,92,92,,,,88,92,90.6,
+Meklit Mulugeta Fentaw,F,A,2022,88,93,90,,,,82,97,90,
+Joanna Samuel Gebrehiwot,F,A,2022,66,100,91,,,,83,93,86.6,
+Yonathan Awelachew Yirga,M,A,2022,72,98,80,,,,72,88,82,
+Amredin Tofik Bedru,M,A,2022,51,90,84,,,,55,75,71,
+Afomia Daginenet Yimenu,F,N,2023,93.07,95.1,94.37,99.71,95.16,93.91,,,95.2,
+Alamin Abdulshikur Menu,M,N,2023,71.31,84.87,87.75,83.47,79.25,68.89,,,79.3,
+Amar Sultan fedlu,M,N,2023,71.01,76.22,77.52,83.49,77.46,66.8,,,75.4,
+Ayantu Asrat Gadissa,F,N,2023,83.35,93.3,93.77,96.39,90.63,76.63,,,89,
+Aymen Abdella Feyissa,M,N,2023,62.02,83,87.32,71.43,70.3,52.52,,,71.1,
+Baselael Mekonen Tesfaye,F,N,2023,67.47,90.2,86.35,90.37,83.42,78.57,,,82.7,
+Fanuel Asfaw Banti,M,N,2023,93.09,89.5,87.37,90.35,82.52,83.79,,,87.8,
+Iman Abdulhakim Gharad,F,N,2023,79.86,90.85,80.95,88.06,78.11,76,,,82.3,
+Kaleab Yonas G/mariam,M,N,2023,79.95,71.12,88.37,90.48,70.53,80.97,,,80.2,
+Maedot Kahsay Geberegiorgis,F,N,2023,67.15,71.07,75.93,84.33,74,71.58,,,74,
+Nathnael Sime Mechal,M,N,2023,66.49,83.22,89.38,85.43,74.92,61.8,,,76.9,
+Nathnael Tilahun Kalew,M,N,2023,79.74,89.3,92.77,88.16,81.16,77.72,,,84.8,
+Rekik Tsegaye Challa,F,N,2023,67.52,92.5,93.35,90.6,80.56,80.63,,,84.2,
+Separa Berhanu Hailemariam,F,N,2023,62.76,90.83,81.52,86.31,83.89,76.2,,,80.3,
+Tariku Samson Hailu,M,N,2023,75.39,70.12,88.52,87.56,73.36,70.84,,,77.6,
+Tesnim Fethi Shami,F,N,2023,85.2,94.2,94.78,89.62,81.31,96.15,,,90.2,
+Yanet Ayanaw Malede,F,N,2023,89.56,88.13,90.33,86.43,81.7,86.53,,,87.1,
+Bereket Yimolal Tiruneh,M,N,2023,89.8,78.92,94.37,90.79,84.46,77.84,,,86,
+Elroi Abebaw Getachew,F,N,2023,78.17,94.85,90.77,91.62,85.08,73.65,,,85.7,
+Ermias Haimanot Tsegaye,M,N,2023,95.96,88.75,99,92.21,89.52,87.42,,,92.1,
+Eyob Kebede Atisedi,M,N,2023,87.79,77.82,87.58,92.85,83.26,79.44,,,84.8,
+Sophia Jemal Edris,F,N,2023,71.53,89.98,90.8,90.23,90.17,78.71,,,85.2,
+Stefan Daniel Seleshi,M,N,2023,62.87,69.87,77.43,84.04,71.52,59.96,,,70.9,
+Selam Wudma Sahile,F,N,2023,76.85,88.28,84.98,85.62,85.71,79.36,,,83.5,
+Marta Alemayehu Assefa,F,N,2023,83.07,85.53,90.95,92.04,91.02,73.45,,,86,
+Leoul Hailu Woldeyes,M,N,2023,63.55,84.58,87.7,82.43,59.86,69.07,,,74.5,
+Abimelek Daniel Tekalign,M,A,2023,73.1,73.42,78.83,,,,80,67.37,74.54,
+Abiy Demissie Haile,M,A,2023,76.75,84.5,91.32,,,,86.62,86.33,85.1,
+Axan Dawit Gonfa,F,A,2023,64.79,88.6,80.05,,,,77.24,83.96,78.93,
+Haleluya Kifle,F,A,2023,61.1,77.32,76.2,,,,77.16,89.02,76.16,
+Hawi Dekeba Abera,F,A,2023,62.29,87.8,87.37,,,,88.13,90.31,83.18,
+Iman Abbas Mohammed,F,A,2023,59.99,94.55,77.37,,,,75.91,83.9,78.34,
+Kaleb Markos Assefa,M,A,2023,70.61,70.92,93.35,,,,90.67,81.5,81.41,
+Maedot Tekalign Tadesse,F,A,2023,81.17,90.83,90.37,,,,84.71,89.92,87.4,
+Matania Curatolo Oreste,F,A,2023,27.53,67.67,71.08,,,,68.46,72.64,61.48,
+Meklit Abby,F,A,2023,74.35,92.25,88.78,,,,83.29,91.94,86.12,
+Piniel Robel Debebe,F,A,2023,66.71,79.77,83.32,,,,77.82,89.68,79.46,
+Sarah Abraham Atkelet,F,A,2023,64.07,91.4,91.92,,,,79.02,89.55,83.19,
+Selam Meseret Melaku,F,A,2023,65.91,77.82,86.18,,,,77.47,87.2,78.92,
+Biruk Mekete Bale,M,A,2023,72.3,86.53,88.95,,,,85.6,86.3,83.94,
