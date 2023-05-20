@@ -31,7 +31,7 @@ def predict():
 
 st.button('Predict', on_click=predict)
 
-st.session_state['answer'] = ''!
+st.session_state['answer'] = ''
 
 st.write(st.session_state)
 
@@ -43,7 +43,8 @@ elif st.session_state['answer'] not in realans:
     answerStat = "incorrect"
 
 st.write(st.session_state)
-st.write(answerStat)st.session_state['answer'] = ''!
+st.write(answerStat)
+st.session_state['answer'] = ''
 
 st.write(st.session_state)
 
