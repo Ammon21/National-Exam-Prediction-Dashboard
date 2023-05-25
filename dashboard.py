@@ -1,11 +1,14 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+import math
+
+
 import pickle
 
 model = pickle.load(open('model.pkl', 'rb'))
 
-st.title('AI National Examination Prediction')
+st.title('AI National Examination Prediction System')
 Maths = st.number_input("Maths Result")
 English = st.number_input("English Result")
 Civics = st.number_input("Civics Result")
@@ -20,13 +23,20 @@ def predict():
     row = np.array([Maths,English,Civics,Chemistry,Biology, Physics,GPAx])
     X = pd.DataFrame([row], columns=column)
     prediction = model.predict(X)
-    rez = 'Your Potential matric Result is ' + str(prediction)
-   
+    return prediction
 
 
-    if prediction > 0:
-        st.success(rez)
+prediction = predict() 
+
+
+def predictx(): 
+
+    if prediction[0] > 0 and prediction[0] < 670:
+        math.trunc(prediction[0])
     else:
-        st.error('Please enter values correctly')    
+        st.error('Please enter values correctly')  
 
-st.button('Predict', on_click=predict)
+
+st.markdown("<span style='color:red;font-size:18mm'>" + str(math.trunc(prediction[0])) + "</span>", 
+               unsafe_allow_html=True)
+
