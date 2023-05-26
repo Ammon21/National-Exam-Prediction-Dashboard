@@ -8,6 +8,7 @@ import pickle
 
 model = pickle.load(open('model.pkl', 'rb'))
 
+st.image('cover.jpg')
 st.title('AI National Examination Prediction System')
 Maths = st.number_input("Maths Result")
 English = st.number_input("English Result")
